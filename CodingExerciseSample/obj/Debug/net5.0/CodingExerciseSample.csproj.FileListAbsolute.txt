@@ -1,0 +1,16 @@
+C:\Users\v784939\Documents\GitHub\CodingExerciseSample\CodingExerciseSample\bin\Debug\net5.0\CodingExerciseSample.exe
+C:\Users\v784939\Documents\GitHub\CodingExerciseSample\CodingExerciseSample\bin\Debug\net5.0\CodingExerciseSample.deps.json
+C:\Users\v784939\Documents\GitHub\CodingExerciseSample\CodingExerciseSample\bin\Debug\net5.0\CodingExerciseSample.runtimeconfig.json
+C:\Users\v784939\Documents\GitHub\CodingExerciseSample\CodingExerciseSample\bin\Debug\net5.0\CodingExerciseSample.runtimeconfig.dev.json
+C:\Users\v784939\Documents\GitHub\CodingExerciseSample\CodingExerciseSample\bin\Debug\net5.0\CodingExerciseSample.dll
+C:\Users\v784939\Documents\GitHub\CodingExerciseSample\CodingExerciseSample\bin\Debug\net5.0\ref\CodingExerciseSample.dll
+C:\Users\v784939\Documents\GitHub\CodingExerciseSample\CodingExerciseSample\bin\Debug\net5.0\CodingExerciseSample.pdb
+C:\Users\v784939\Documents\GitHub\CodingExerciseSample\CodingExerciseSample\obj\Debug\net5.0\CodingExerciseSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v784939\Documents\GitHub\CodingExerciseSample\CodingExerciseSample\obj\Debug\net5.0\CodingExerciseSample.AssemblyInfoInputs.cache
+C:\Users\v784939\Documents\GitHub\CodingExerciseSample\CodingExerciseSample\obj\Debug\net5.0\CodingExerciseSample.AssemblyInfo.cs
+C:\Users\v784939\Documents\GitHub\CodingExerciseSample\CodingExerciseSample\obj\Debug\net5.0\CodingExerciseSample.csproj.CoreCompileInputs.cache
+C:\Users\v784939\Documents\GitHub\CodingExerciseSample\CodingExerciseSample\obj\Debug\net5.0\CodingExerciseSample.dll
+C:\Users\v784939\Documents\GitHub\CodingExerciseSample\CodingExerciseSample\obj\Debug\net5.0\ref\CodingExerciseSample.dll
+C:\Users\v784939\Documents\GitHub\CodingExerciseSample\CodingExerciseSample\obj\Debug\net5.0\CodingExerciseSample.pdb
+C:\Users\v784939\Documents\GitHub\CodingExerciseSample\CodingExerciseSample\obj\Debug\net5.0\CodingExerciseSample.genruntimeconfig.cache
+C:\Users\v784939\Documents\GitHub\CodingExerciseSample\CodingExerciseSample\obj\Debug\net5.0\CodingExerciseSample.csproj.AssemblyReference.cache
